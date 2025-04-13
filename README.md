@@ -22,15 +22,15 @@ si-ifma-atividades/
 └── README.md
 ```
 ## 🚀 Como Usar
-- 1. Clone o repositório:
+- I. Clone o repositório:
 ```
 git clone https://github.com/im-Renan/si-ifma-atividades.git
 ````
-- 2. Acesse a pasta da disciplina desejada:
+- II. Acesse a pasta da disciplina desejada:
 ```
 cd si-ifma-atividades/fundamentos_programacao
 ```
-- 3. Abra os arquivos no seu editor de código favorito para estudar, revisar ou executar.
+- III. Abra os arquivos no seu editor de código favorito para estudar, revisar ou executar.
 
 ## 📬 Contato
 Caso queira entrar em contato:
