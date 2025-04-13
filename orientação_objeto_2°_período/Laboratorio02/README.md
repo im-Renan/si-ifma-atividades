@@ -1,20 +1,46 @@
-# Laboratório 02 - Orientação a Objetos
+# Laboratório 02 - Programação Orientada a Objetos (2º Período)
 
-Este repositório contém os exercícios realizados no Laboratório 02 da disciplina de Orientação a Objetos.
+Este projeto contém as atividades práticas do segundo laboratório da disciplina de Programação Orientada a Objetos do IFMA - 2º Período.
 
-## Estrutura do repositório
+## 📁 Estrutura
 
-- **src**: Contém os arquivos de código-fonte (arquivos `.java`).
-  - **tarefa1**: Contém os arquivos da primeira tarefa.
-  - **tarefa2**: Contém os arquivos da segunda tarefa.
-- **bin**: Contém os arquivos compilados.
-  - **tarefa1**: Arquivos compilados da primeira tarefa.
-  - **tarefa2**: Arquivos compilados da segunda tarefa.
+O projeto está dividido em dois pacotes Java:
 
-## Instruções para execução
+- `tarefa1`: Trabalha o conceito de **encapsulamento** com a classe `Pessoa`.
+- `tarefa2`: Aborda **sobrecarga de construtores** e uso do método `toString()` com a classe `Livro`.
 
-Para executar os programas, siga os passos abaixo:
+---
 
-1. Compile os arquivos `.java`:
-   ```bash
-   javac caminho/para/o/arquivo.java
+## ✅ Tarefa 1 - Classe Pessoa
+
+### Objetivos:
+- Aplicar o princípio do encapsulamento com modificadores `private`.
+- Criar métodos `get`, `set` e `toString`.
+- Testar a classe com diferentes objetos.
+
+### Arquivos:
+- `Pessoa.java`
+- `TestePessoa.java`
+
+---
+
+## ✅ Tarefa 2 - Classe Livro
+
+### Objetivos:
+- Criar a classe `Livro` com atributos básicos.
+- Implementar **sobrecarga de construtores** (com e sem descrição).
+- Trabalhar com `get`, `set` e `toString`.
+- Testar os objetos criados.
+
+### Arquivos:
+- `Livro.java`
+- `TesteLivro.java`
+
+---
+
+## ▶️ Como executar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/si-ifma-atividades.git
