@@ -35,16 +35,16 @@ O laboratório tem como foco a prática dos conceitos fundamentais da orientaç�
 ```
 git clone https://github.com/seu-usuario/si-ifma-atividades.git
 ```
-Abra a IDE de sua preferência.
+2. Abra a IDE de sua preferência (como Eclipse, IntelliJ IDEA ou NetBeans) e importe o projeto:
 
-Importe o projeto:
+- No Eclipse: File > Import > Existing Projects into Workspace
 
-No Eclipse: File > Import > Existing Projects into Workspace.
+- No IntelliJ: File > Open e selecione a pasta do projeto
 
-No IntelliJ: File > Open e selecione a pasta do projeto.
+3. Após importar, navegue até a pasta src e abra os arquivos de teste:
 
-Navegue até a pasta src, abra os arquivos de teste:
+TestePessoa.java (Tarefa 1)
 
-TestePessoa.java (tarefa1)
+TesteLivro.java (Tarefa 2)
 
-TesteLivro.java (tarefa2)
+4. Para executar, clique com o botão direito sobre os arquivos de teste e selecione a opção Run.
