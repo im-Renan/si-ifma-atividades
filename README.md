@@ -1,6 +1,7 @@
 # si-ifma-atividades
 ## 👨‍💻 Sobre o Repositório
-Este repositório contém as atividades e exercícios das disciplinas do curso de Sistemas de Informação do IFMA. Aqui, estão organizados os códigos, anotações e projetos que eu realizei ao longo do curso. O objetivo é manter um histórico acessível para futuras revisões e estudos, além de ser uma maneira de documentar meu progresso e utilizar como portfólio acadêmico.
+Este repositório reúne as atividades e exercícios desenvolvidos ao longo do curso de Sistemas de Informação do IFMA. Aqui estão organizados os códigos, anotações, atividades, provas e projetos que realizei em cada disciplina.
+O objetivo é manter um histórico acessível para revisões futuras, além de servir como portfólio acadêmico e pessoal de aprendizado.
 
 ## 🎓 Disciplinas e Períodos
 - Fundamentos de Programação de computadores – 1º Período
