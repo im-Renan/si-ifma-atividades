@@ -27,37 +27,33 @@ Algoritmo que recebe as coordenadas de dois pontos no plano (x1, y1) e (x2, y2) 
 ## Como Executar
 1. Requisitos
 - Compilador C (GCC ou equivalente).
-
 - Editor de código (como Code::Blocks, Visual Studio Code, ou qualquer IDE de sua preferência).
 
 2. Passos
-I.Clone o repositório:
+- Clone o repositório:
 ```
 git clone https://github.com/im-Renan/si-ifma-atividades.git
 ```
-II.Abra o projeto na IDE de sua escolha (como Code::Blocks, Visual Studio Code, etc).
+- Abra o projeto na IDE de sua escolha (como Code::Blocks, Visual Studio Code, etc).
+- Navegue até os arquivos de código:
+    - Prova 1 - Questão 1.c (Reajuste Salarial)
+    - Prova 1 - Questão 2.c (Cálculo das Notas)
+    - Prova 1 - Questão 3.c (Cálculo da Distância)
 
-III. Navegue até os arquivos de código:
+- Compile e execute os códigos das tarefas individualmente.
 
-Prova 1 - Questão1.c (Reajuste Salarial)
-
-Prova 1 - Questão2.c (Cálculo das Notas)
-
-Prova 1 - Questão3.c (Cálculo da Distância)
-
-IV. Compile e execute o código de cada tarefa individualmente.
-
-- Para compilar no terminal:
+- *Para compilar cada arquivo no terminal:*
 ```
-gcc Prova 1 - Questão1.c -o Prova 1 - Questão1
-gcc Prova 1 - Questão2.c -o Prova 1 - Questão1
-gcc Prova 1 - Questão3.c -o Prova 1 - Questão1
+gcc "Prova 1 - Questão1.c" -o "Prova 1 - Questão1"
+gcc "Prova 1 - Questão2.c" -o "Prova 1 - Questão2"
+gcc "Prova 1 - Questão3.c" -o "Prova 1 - Questão3"
 ```
-- Para executar:
+
+- *Para executar cada programa no terminal:*
 ```
-./Prova 1 - Questão3
-./Prova 1 - Questão2
-./Prova 1 - Questão3
+./Prova\ 1\ -\ Questão1
+./Prova\ 1\ -\ Questão2
+./Prova\ 1\ -\ Questão3
 ```
 Conclusão
 Esta prova permite aplicar os conceitos de estruturas de controle, entrada e saída de dados, e manipulação de variáveis na linguagem C, consolidando o conhecimento necessário para a implementação de algoritmos simples e eficientes.
