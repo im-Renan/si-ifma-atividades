@@ -43,8 +43,8 @@ git clone https://github.com/seu-usuario/si-ifma-atividades.git
 
 3. Após importar, navegue até a pasta src e abra os arquivos de teste:
 
-`TestePessoa.java (Tarefa 1)`
+ - `TestePessoa.java (Tarefa 1)`
 
-`TesteLivro.java (Tarefa 2)`
+ -  `TesteLivro.java (Tarefa 2)`
 
 4. Para executar, clique com o botão direito sobre os arquivos de teste e selecione a opção `Run`.
