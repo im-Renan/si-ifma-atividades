@@ -53,3 +53,9 @@ Este repositório está organizado da seguinte forma:
 ├── /Projetos
 └── README.md
 ```
+
+- `Provas:` Contém as provas realizadas durante a disciplina.
+
+- `Atividades:` Contém exercícios e atividades realizadas ao longo do curso.
+
+- `Projetos:` Contém projetos maiores que envolvem múltiplos arquivos.
