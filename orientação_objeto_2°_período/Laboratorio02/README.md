@@ -1,46 +1,44 @@
-# Laboratório 02 - Programação Orientada a Objetos (2º Período)
+Laboratório 02 - Programação Orientada a Objetos (2º Período)
+Descrição
+Este projeto foi desenvolvido por Renan Moreira da Silva, para a disciplina de Programação Orientada a Objetos (POO) do curso de Sistemas de Informação - IFMA.
 
-Este projeto contém as atividades práticas do segundo laboratório da disciplina de Programação Orientada a Objetos do IFMA - 2º Período.
+O objetivo é aplicar conceitos fundamentais da POO como encapsulamento, sobrecarga de construtores e uso de métodos como toString, por meio de duas tarefas práticas com as classes Pessoa e Livro.
 
-## 📁 Estrutura
+Funcionalidades
+✅ Tarefa 1 - Classe Pessoa
+• Criação da classe Pessoa com atributos privados
+• Métodos de acesso (get e set)
+• Implementação do método toString()
+• Testes com múltiplas instâncias
 
-O projeto está dividido em dois pacotes Java:
+✅ Tarefa 2 - Classe Livro
+• Criação da classe Livro com atributos básicos
+• Sobrecarga de construtores
+• Uso de get, set e toString()
+• Testes com diferentes objetos
 
-- `tarefa1`: Trabalha o conceito de **encapsulamento** com a classe `Pessoa`.
-- `tarefa2`: Aborda **sobrecarga de construtores** e uso do método `toString()` com a classe `Livro`.
+Tecnologias Utilizadas
+🖥️ Linguagem de Programação: Java
 
----
-
-## ✅ Tarefa 1 - Classe Pessoa
-
-### Objetivos:
-- Aplicar o princípio do encapsulamento com modificadores `private`.
-- Criar métodos `get`, `set` e `toString`.
-- Testar a classe com diferentes objetos.
-
-### Arquivos:
-- `Pessoa.java`
-- `TestePessoa.java`
-
----
-
-## ✅ Tarefa 2 - Classe Livro
-
-### Objetivos:
-- Criar a classe `Livro` com atributos básicos.
-- Implementar **sobrecarga de construtores** (com e sem descrição).
-- Trabalhar com `get`, `set` e `toString`.
-- Testar os objetos criados.
-
-### Arquivos:
-- `Livro.java`
-- `TesteLivro.java`
-
----
-
-## ▶️ Como executar
-
-1. Clone o repositório:
-
-```bash
+Como Executar
+1 - Clone o repositório:
+bash
+Copiar
+Editar
 git clone https://github.com/seu-usuario/si-ifma-atividades.git
+(Substitua seu-usuario pelo seu nome de usuário no GitHub)
+
+2 - Compile os arquivos Java:
+Navegue até a pasta do projeto e execute:
+
+bash
+Copiar
+Editar
+javac -d bin src/tarefa1/*.java
+javac -d bin src/tarefa2/*.java
+3 - Execute os testes:
+bash
+Copiar
+Editar
+java -cp bin tarefa1.TestePessoa
+java -cp bin tarefa2.TesteLivro
