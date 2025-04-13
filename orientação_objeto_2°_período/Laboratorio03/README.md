@@ -35,7 +35,7 @@ Implementação dos métodos:
 ### 2. Passos
 1. Clone o repositório:
 
-```bash
+````bash`
 git clone https://github.com/im-Renan/si-ifma-atividades.git
 ```
 2. Abra a IDE de sua preferência (como Eclipse, IntelliJ IDEA ou NetBeans) e importe o projeto:
