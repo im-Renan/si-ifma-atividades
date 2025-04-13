@@ -28,6 +28,7 @@ gcc nome_do_arquivo.c -o programa
 ./programa
 ```
 📌 Usando o terminal no Windows (com GCC instalado):
+
 No Windows, se você tiver o GCC instalado, basta compilar da seguinte forma:
 ````
 gcc nome_do_arquivo.c -o programa.exe
