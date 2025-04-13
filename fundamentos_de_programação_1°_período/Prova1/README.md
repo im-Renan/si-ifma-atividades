@@ -1,4 +1,4 @@
-#Fundamentos de Programação de Computadores 💻 - (1º Período)
+# Fundamentos de Programação de Computadores 💻 - (1º Período)
 Esta pasta contém as questões e códigos desenvolvidos para a prova da etapa 1 de *Fundamentos de Programação de Computadores*, realizada no 1º Período do IFMA. O objetivo da prova é avaliar o conhecimento sobre estruturas de controle, manipulação de dados e cálculos básicos em C.
 
 ## Funcionalidades
