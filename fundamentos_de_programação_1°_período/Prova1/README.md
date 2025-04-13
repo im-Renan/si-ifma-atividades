@@ -40,7 +40,7 @@ git clone https://github.com/im-Renan/si-ifma-atividades.git
     - Prova 1 - Questão 2.c (Cálculo das Notas)
     - Prova 1 - Questão 3.c (Cálculo da Distância)
 
-- ⚠️ _Compile os arquivos de código individualmente antes de executar, para garantir que o programa seja corretamente gerado e executado._
+- ⚠️ #Compile os arquivos de código individualmente antes de executar, para garantir que o programa seja corretamente gerado e executado.#
 
 - *Para compilar cada arquivo no terminal:*
 ```
