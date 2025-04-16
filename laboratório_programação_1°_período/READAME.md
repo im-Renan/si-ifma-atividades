@@ -63,10 +63,12 @@ Este repositório está organizado da seguinte forma:
 
 ## 👨‍🏫 Objetivos da disciplina
 - Geral:
+  
 Interpretar problemas e implementar soluções utilizando ferramentas que auxiliam no aprendizado de lógica de programação e linguagens de programação de propósito geral.
 
 - Específicos:
--  Conhecer os fundamentos da programação através da construção de algoritmos.
+
+ Conhecer os fundamentos da programação através da construção de algoritmos.
 
  Aplicar as técnicas de programação no desenvolvimento de problemas reais e práticos.
 
