@@ -91,7 +91,7 @@ gcc "Atividade 01 - Soma de Quatro Números.c" -o "Atividade 01 - Soma de Quatro
 gcc "Atividade 02 - Média Aritmética de Três Notas.c" -o "Atividade 02 - Média Aritmética de Três Notas"
 gcc "Atividade 03 - Média Ponderada de Três Notas.c" -o "Atividade 03 - Média Ponderada de Três Notas"
 ```
-**Para executar:**
+8*Para executar:*
 ```
 ./Atividade\ 01\ -\ Soma\ de\ Quatro\ Números
 ./Atividade\ 02\ -\ Média\ Aritmética\ de\ Três\ Notas
