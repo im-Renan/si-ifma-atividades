@@ -77,6 +77,7 @@ git clone https://github.com/im-Renan/si-ifma-atividades.git
 `Atividade 01` - Soma de Quatro Números.c
 
 `Atividade 02` - Média Aritmética de Três Notas.c
+
 `Atividade 03` - Média Ponderada de Três Notas.c
 
 - **⚠️ Compile os arquivos de código individualmente antes de executar, para garantir que o programa seja corretamente gerado e executado.**
